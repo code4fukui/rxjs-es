@@ -4,11 +4,11 @@
 [![npm version](https://badge.fury.io/js/rxjs.svg)](http://badge.fury.io/js/rxjs)
 [![Join the chat at https://gitter.im/Reactive-Extensions/RxJS](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Reactive-Extensions/RxJS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# RxJS 7 から 8 へのロードマップ
+## RxJS 7 から 8 へのロードマップ
 
 RxJSの今後の展開にご興味がありますか？[Issue 6367](https://github.com/ReactiveX/rxjs/issues/6367) をフォローして最新情報を確認してください。
 
-# RxJS 7
+## RxJS 7
 
 ### 6.x については [6.x ブランチ](https://github.com/ReactiveX/rxjs/tree/6.x) を参照してください
 
